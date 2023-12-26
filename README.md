@@ -10,9 +10,23 @@ This idea will help new users master a new programming language, as well as unde
 
 You can download this archive again or install.<br>
 
-# Is this project protected by copyright?
 
-No, I give everyone the right to own this project and use my templates first.<br>
+### License
+
+    Copyright (C) 2023 staffuser
+
+    Python-UX is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Python-UX is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with myBrush.  If not, see <http://www.gnu.org/licenses/>.
 
 
 Keyboard Shortcuts
